@@ -1,3 +1,4 @@
+#imports game modules
 import pygame
 from pygame.locals import *
 import sys
@@ -166,6 +167,6 @@ class Game:
         pygame.display.update()
 
 
-
+#Calls game run function
 Game().run()
 
