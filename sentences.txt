@@ -4,3 +4,6 @@ The plots failed because of some trusted friends of the king.
 After the death of the king, everyone wanted to be a king.
 War does not bring anything good to the common people.
 If opportunity doesn't knock, build a door.
+This text file will contain a list of sentences separated by a new line.
+It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution.
+If you have any feedback or suggestions on what important information should be added feel free to let me know!
